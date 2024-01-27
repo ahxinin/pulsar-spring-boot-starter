@@ -1,3 +1,6 @@
+## 概览
+Pulsar SpringBoot版本实现，支持通过注解方式创建Producer和Consumer，支持自定义消息处理方式（已实现消息失败重试）
+
 ## 快速开始
 
 ### 1.安装JDK17
