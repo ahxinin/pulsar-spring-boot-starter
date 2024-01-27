@@ -1,0 +1,7 @@
+pulsar:
+  serviceUrl: pulsar://localhost:6650
+  token: ""
+  topic:
+    task: translate-task
+    subscription:
+      task: translate-task-sub
